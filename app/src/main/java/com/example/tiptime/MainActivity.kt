@@ -119,7 +119,7 @@ fun TipTimeLayout() {
         Spacer(modifier = Modifier.height(150.dp))
     }
 }
-
+/dsadads
 @Composable
 fun EditNumberField(
     @StringRes label: Int,
